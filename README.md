@@ -1,4 +1,4 @@
-# Desafio de Projeto [Criando a Sua Primeira Criptomoeda da Rede Ethereum](https://web.dio.me/lab/crie-o-seu-nft-de-pokemon/learning/0f693c0e-c1d9-40fb-978b-6a8d12424467?back=/track/coding-the-future-blockchain-developer-with-solidity)
+# Desafio de Projeto [Crie o seu NFT de Pokémon com Blockchain](https://web.dio.me/lab/crie-o-seu-nft-de-pokemon/learning/dc197e17-fb12-48b7-8bd6-15eb0f2d989c)
 
 ---
 
